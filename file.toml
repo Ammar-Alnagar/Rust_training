@@ -1,0 +1,5 @@
+[dependencies]
+polars = "0.38" # or the version you prefer
+ndarray = "0.15" # or the version you prefer
+plotters = "0.3" # or the version you prefer
+linfa-clustering = "0.7" # or the version you prefer
