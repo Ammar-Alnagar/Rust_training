@@ -6,7 +6,8 @@ edition = "2024"
 [dependencies]
 ndarray = "0.16.1"
 plotters = "0.3.5"
+rand = "0.8.5"
 
 # Linfa dependencies
-linfa = { version = "0.7.0", features = ["clustering"] }
-linfa-clustering = "0.7.0"
+linfa = "0.7.1"
+linfa-clustering = "0.7.1"
