@@ -1,0 +1,13 @@
+[package]
+name = "immy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.36", features = ["full"] }
+cpal = "0.15"
+dotenv = "0.15"
+google-generativeai = "0.2"  # Note: This is a placeholder, you may need to use a different library
+anyhow = "1.0"
+bytes = "1.5"
+futures = "0.3"
